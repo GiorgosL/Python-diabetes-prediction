@@ -6,4 +6,4 @@ Diabetes binary classification uwith feature engineering and visualisation using
 
 - XGBClassifier
 
-- ANN 
+- Keras ANN 
